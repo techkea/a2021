@@ -5,14 +5,13 @@ nav_order: 1
 description: ""
 permalink: /
 ---
-# Teknologi 1, Kea Efteråe 2021
-<div style="text-align:right"><small>
-Undervisning: Dat20C onsdage 12:30 - 15:45 <br>    
-Undervisning: Dat20B fredage 12:30 - 15:45 <br>    
-Underviser: Claus Bove, clbo@kea.dk <br>
-<br><br>
-</small>  
-</div>
+# Teknologi 1, Kea efterår 2021
+
+# Undervisning: 
+Dat20C onsdage 12:30 - 15:45     
+Dat20B fredage 12:30 - 15:45     
+Underviser: Claus Bove, clbo@kea.dk     
+
 
 | Dat20C | Dat20B | Emne | 
 |:---:|:---:| --- |
