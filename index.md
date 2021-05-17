@@ -5,15 +5,6 @@ nav_order: 1
 description: ""
 permalink: /
 ---
-<button type="button" name="button" class="btn">Button element</button>
-
-Coming soon
-{: .label .label-yellow }
-
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-
 # Teknologi 1, Kea Efteråe 2021
 <div style="text-align:right"><small>
 Undervisning: Dat20C onsdage 12:30 - 15:45 <br>    
