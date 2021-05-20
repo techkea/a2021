@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lek 1: Introduktion
+title: 1 - Introduktion
 nav_order: 3
 description: ""
 ---
