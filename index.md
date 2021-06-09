@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teknologi Lektionsplan
+title: Lektionsplan
 nav_order: 1
 description: ""
 permalink: /
