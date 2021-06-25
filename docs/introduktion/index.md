@@ -7,4 +7,6 @@ description: ""
 # Introduktion til Teknologi 1
 
 
-
+## Indhold
+* Introduktion og overblik
+* 2 talssystemet
