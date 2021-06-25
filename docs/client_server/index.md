@@ -27,12 +27,12 @@ description: ""
 * [Hypertext Transfer Protocol (HTTP)](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http)
 * [Kodeeksempler fra undervisningen i dag](https://github.com/techkea/client_server_kodeeksempel_fra_undervisningen)
 ### Ip adresser og Domain Name Server
-![](assets/images/img/1.jpg)
+![](../../assets/images/img/1.jpg)
 ### Client / Server
-![](img/2.jpg)
-### Hvad foregår på serveren og hvad foregår på klienten?
-![](img/3.jpg)
+![](../../assets/images/img/2.jpg)
 
+### Hvad foregår på serveren og hvad foregår på klienten?
+![](../../assets/images/img/3.jpg)
 
 ## Øvelser
 ### Et ultra simpelt Spring Boot projekt.
