@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lek 3 - Obligatorisk opgave 
-nav_order: 5
+nav_order: 50
 description: ""
 ---
 # Obligatorisk opgave (HackNet-OS) 

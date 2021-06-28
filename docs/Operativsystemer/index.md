@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lek 2 - Operativsystemer
-nav_order: 4
+title: Lek 3 - Operativsystemer
+nav_order: 50
 description: ""
 ---
 # Opreativsystemer
