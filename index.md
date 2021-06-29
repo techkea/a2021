@@ -34,6 +34,7 @@ permalink: /
 Dat20C onsdage 12:30 - 15:45     
 Dat20B fredage 12:30 - 15:45     
 Underviser: Claus Bove, clbo@kea.dk     
+
 <script>  
 
 var dates = [
