@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lek 2 - Computerens Hardware 
+title: Lek 2 - Hardware 
 nav_order: 40
 description: ""
 ---
