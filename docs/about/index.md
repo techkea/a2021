@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-nav_order: 2
+title: Om dette fag
+nav_order: 20
 description: ""
 ---
 # Indholdet i dette fag
