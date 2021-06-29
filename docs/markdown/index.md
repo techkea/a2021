@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lek 8 - Repodocumentation og Markdown
-nav_order: 9
+title: Lek 8 - Dokumentation 
+nav_order: 90
 description: ""
 ---
-# Repositorydokumentation og Markdown
+# Dokumentation og Markdown
 
 ## Todo
 * Markdown
