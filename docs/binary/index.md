@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lek 3 - Binære tal
-nav_order: 6
+nav_order: 50
 description: ""
 ---
 # Binære tal 
