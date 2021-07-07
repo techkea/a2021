@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lek 5 - Client / Server arkitektur
-nav_order: 6
+title: Lek 5 - Client/Server arkitektur
+nav_order: 80
 description: ""
 ---
 
