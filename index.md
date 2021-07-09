@@ -7,7 +7,6 @@ permalink: /
 ---
 # Teknologi 1, Kea efterår 2021
 
-## TEST
 
 | Dat20C | Dat20B | Emne | 
 |:---:|:---:| --- |
