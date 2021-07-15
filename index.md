@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Lektionsplan
 nav_order: 1
 description: ""
